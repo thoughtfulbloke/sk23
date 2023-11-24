@@ -44,10 +44,9 @@ Quantitatively, what was very successful, and was my first covid related data sh
 
 <img src="images/casegrowth.png" alt="Initial start of covid was at the same rate" width="400" height="225">
 
-**Map showing uninhabited parts of New Zealand. By Andrew Douglas-Clifford Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**
+**Graph showing the initial (known reported, so able to be acted on) spread of covid between selected countries**
 
-*Map source: https://www.andrewdc.co.nz/wp-content/uploads/2018/11/Nobody-Lives-Here-NZ-web.png (link)*
-
+*Data source: OurWorldInData https://github.com/owid/covid-19-data/tree/master/public/data (link)*
 
 If you line countries reported cases up against the date of the 100th new case (so covid was established in the community and being officially measured) most countries, including New Zealand, followed  very similar track. Then New Zealand rapidly went into level 4 lockdown. The infections just before lockdown provided a little more growth momentum for a short while, but they did not spread like before. And covid, trapped by people in their homes, died away.
 
