@@ -169,7 +169,7 @@ Which brings us to this graph, a dashed fixed point with raw deaths and age stan
 
 Special mention needs to be made of the dip in mortality, when using properly age standardised measures, for 2020 to 2021. When deaths went up 8% on trend in countries like Sweden in 2020, New Zealand went down by 7%.
 
-<img src="images/NZSWE.png" alt="New Zealand and Sweden excess mortality again" width="400" height="225">
+<img src="images/NZSWE.png" alt="baselines" width="400" height="225">
 
 **the same New Zealand and Sweden mortality graph as earlier**
 
@@ -216,7 +216,7 @@ Another piece of media antivaxers love to share is the Herald headline “New Ze
 
 But both of those are defensive explanations, showing that the scare stories about mass deaths in New Zealand are not true. In reality we should be comparing countries like New Zealand (with no covid, vaccination, then widespread covid) against countries with no vaccination and covid. Bulgaria is the country with lowest levels of vaccination that publishes deaths by age, and this is their essentially unvaccinated under 60 year old death rate compared to the changed seen in the New Zealand death rate. We missed a lot of mass death.
 
-<img src="under60NZvBG.png" alt="Under 60 year old NZ vs Bulgaria" width="400" height="225">
+<img src="images/under60NZvBG.png" alt="Under 60 year old NZ vs Bulgaria" width="400" height="225">
 
 **NZ vs Bulgaria change in death rates in supposed young, healthy age ranges. Bulgaria has vast rises during covid waves**
 
