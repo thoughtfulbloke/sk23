@@ -73,7 +73,7 @@ And this reflects a special value of New Zealand data in this period- testing cl
 
 But there are places, where due to the early overall success against covid, that in itself created gaps in the data. For some people, the symptoms of covid did not just go away with time. What is now called long covid. Because New Zealand had very little covid, it had very little wider awareness or attention to the consequences of covid. Until 2022 that is. Then people got interested.
 
-<img src="images/casegrowth.png" alt="Google Trends interest in Long Covid" width="400" height="225">
+<img src="images/longvcovid.png" alt="Google Trends interest in Long Covid" width="400" height="225">
 
 **Graph showing Google Trends interest in the topic Long Covid, for NZ vs. the World**
 
