@@ -8,7 +8,7 @@ New Zealand likes data a lot.
 
 For many years I’ve been involved in discussing public data around topics of the day, and in 2017, back when Twitter was useful, I did a little analysis of how much political parties from around the anglosphere were referring to data and evidence in their Tweets and documents linked to their Tweets.
 
-<img src="images/dataEv.png" alt="NZ political parties refer to data and evidence a lot" width="320" height="481">
+<img src="images/dataEv.png" alt="NZ political parties refer to data and evidence a lot" width="481" height="320">
 
 **Graph showing rate of use of terms 'Data' and 'Evidence' by political parties of different countries. NZ has an order of magnitude higher rate**
 
