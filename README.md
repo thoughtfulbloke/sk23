@@ -151,9 +151,9 @@ While antivaxers have claimed this is impossible and the official population is 
 But you don’t get mislead about that if you use age standardised death rates.
 Though that is only half of “excess”. Once you have decided on how you are measuring deaths (people should use age standardised deaths if the data exists) you need to define what “normal” is that is the basis for comparison.
 
-<img src="images/mortalities.png" alt="3 ways of measuring deaths" width="400" height="225">
+<img src="images/baselines.png" alt="3 ways of measuring deaths" width="400" height="225">
 
-**New Zealand deaths, crude death rate, and age standardised death rate**
+**New Zealand raw deaths & age standardised death rate, with fixed and trend line baselines**
 
 *Data sources: NZ weekly deaths by age from https://www.stats.govt.nz/experimental/covid-19-data-portal matched to quarterly population by age from https://infoshare.stats.govt.nz for those measure for which population and age are relevant*
 
