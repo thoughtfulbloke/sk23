@@ -113,7 +113,8 @@ And then there was the United Nations population of New Zealand. Since 2006 the 
 
 *Data sources: Because the UN population numbers were fixed, this was the numbers from the UN as at early 2021 (The Stats NZ population has not changed)*
 
-Fixing the U.N. population data took someone in an official capacity contacting the U.N. with up to date data. And I think for the awareness in getting their we need to specially mention the campaigning of the journalist Henry Cooke who strongly pushed the issue.
+Fixing the U.N. population data took someone in an official capacity contacting the U.N. with up to date data. And I think for the awareness in getting their attention we need to specially mention the campaigning of the journalist Henry Cooke who strongly pushed the issue in Prime Ministerial press conferences.
+
 And the UN data was fixed.
 
 The HSU vs full population data resulted in what I will describe as Stats NZ having words with the Ministry of Health about the calculation it was using. And if anyone wants to read the review it is at https://www.stats.govt.nz/reports/review-of-health-service-user-population-methodology/
@@ -146,7 +147,9 @@ And on this graph, it is the blue line. A big dip, then return to normal, then a
 
 You might notice that the big divergence between deaths, along with death rates, compared to age standardised death rates happened in the last 5 years or so. This is because both the number of people aged 60 to 80, and the number of people 80 plus have increased by more than 20% in the last few years, leading to it looking like there are a lot more deaths (but not for age standardised). 
 
-While antivaxers have claimed this is impossible and the official population is being faked since immigration can’t explain that, the extra people arrived in New Zealand in the late 1950s. The ten pound pom scheme saw the mass subsidised importing of Europe’s baby boom on top of our own, so for example the number of 10 to 14 year olds increased by 33% between the 1956 and 1961 census. This is the least surprising demographic change in history with population bulge spending 60 years naturally aging to the point where being old, they began to have a strong effect on deaths.
+While antivaxers have claimed this is impossible and the official population is being faked since immigration can’t explain that, the explanation is immigrants to New Zealand are young and healthy and take decades to become old enough to die. The extra old people arrived in New Zealand as young people in the late 1950s. The ten pound pom scheme saw the mass subsidised importing of Europe’s baby boom on top of our own, you can ask someone in their 70s what going to school was like, or for example the number of 10 to 14 year olds increased by 33% between the 1956 and 1961 census. This is the least surprising demographic change in history with population bulge spending 60 years naturally aging to the point where being old, they began to have a strong effect on deaths.
+
+*Population by age data sources: The 1956 census results are in the https://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1958/NZOYB_1958.html?_ga=2.9573244.839118417.1698397263-773360433.1695197913#idchapter_1_20789 and the 1964 yearbook https://www3.stats.govt.nz/New_Zealand_Official_Yearbooks/1964/NZOYB_1964.html?_ga=2.85154640.839118417.1698397263-773360433.1695197913 had the 1961 results.*
 
 But you don’t get mislead about that if you use age standardised death rates.
 Though that is only half of “excess”. Once you have decided on how you are measuring deaths (people should use age standardised deaths if the data exists) you need to define what “normal” is that is the basis for comparison.
@@ -207,6 +210,8 @@ This dataset is graphed in good faith at Our World in Data, who to their credit 
 *Data sources: NZ weekly deaths by age from https://www.stats.govt.nz/experimental/covid-19-data-portal matched to quarterly population by age from https://infoshare.stats.govt.nz for those measure for which population and age are relevant*
 
 Another piece of media antivaxers love to share is the Herald headline “New Zealand records biggest increase in registered deaths in 100 years”. This article could just as easily have been headlined “Death rates return to normal after a 1 in 100 year drop” because it was after the 1 in 100 year drop in deaths in 2020 and the age standardised death rate in 2022 was below 2017. Remember the dip? This is the dip. Again, I am providing the official data as an annotated figure if people you know will benefit from an explanation (and you can right click and open separately for full size). Coming back to normal from a record low mostly just meant extra lives were no longer being saved.
+
+I would start such conversations with "Remember how in 2020 we all went home for longer than virus lifecycles, and there was quarantine at the border for longer than virus lifecycles, and we had a year of basically nobody getting sick - that was because we wiped out a whole bunch of viruses and dropped the number of annual deaths by a once in a century level. We opened up and came back to the same range as before covid, which is what you would expect.
 
 <img src="images/OneInOneHundred.jpeg" alt="Deaths and age standardised death rate" width="683" height="407">
 
