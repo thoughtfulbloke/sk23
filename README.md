@@ -235,3 +235,18 @@ There is another antivaxxer story I believe, from people talking to me, we might
 
 *Data sources: Vaccination numbers from https://www.tewhatuora.govt.nz/our-health-system/data-and-statistics/covid-vaccine-data/ for general age specific rates*
 
+And for the current 137 week vaccination period (Feb 2021 to Sep 2023) compared to the most recent pre-covid 137 week period covering the same kind of year (Feb 2017 to Sep 2019) we can calculate the average weekly death rates for each age:
+
+80+ people, vax era 1850.7; pre-covid 1933.9 = vax era lower
+
+60-79 year olds, vax era 262.8; pre-covid 269.0 = vax era lower
+
+under 60 year olds, vax era 23.1; pre-covid 23.6 = vax era lower
+
+But if people talk about sudden spikes in mortality, we can compare the worst weeks in each period:
+
+80+ people, vax era 2808.2; pre-covid 2815.0 = vax era lower
+
+60-79 year olds, vax era 326.7; pre-covid 347.6 = vax era lower
+
+under 60 year olds, vax era 30.5; pre-covid 30.8 = vax era lower
